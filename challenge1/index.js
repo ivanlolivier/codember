@@ -1,4 +1,3 @@
-// Importing the fs module
 import fs from 'fs';
 
 const REQUIRED_FIELD_NAMES = ['usr', 'eme', 'psw', 'age', 'loc', 'fll'];
@@ -19,12 +18,5 @@ const users = data
 
 
 const validUsers = users.filter(user => REQUIRED_FIELD_NAMES.every(fieldName => fieldName in user));
-
-console.log({
-  totalUsers: users.length,
-  totalValidUsers: validUsers.length,
-  lastValidUser: validUsers.at(-1),
-  lastValirUserName: validUsers.at(-1).usr,
-});
 
 console.log('====> ', `submit ${validUsers.length}${validUsers.at(-1).usr}`);

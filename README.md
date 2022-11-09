@@ -16,3 +16,4 @@ Each challenge has its own folder with the code I used to solve it.
 Check out these repos:
 - https://github.com/Atticus64/codember -> Jona <Atticus64>
 - https://github.com/ikurotime/codember_rust -> David Huertas <ikurotime>
+- https://github.com/davidmaillo/codember-js -> David Maillo <davidmaillo>

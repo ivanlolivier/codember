@@ -9,7 +9,6 @@ const users = data
   .map((line) => line.replaceAll('\n', ' ').split(/\s+/))
   .map(userArr => Object.fromEntries(userArr.map(u => u.split(':'))));
 
-
 const validUsers = users.filter(user => REQUIRED_FIELD_NAMES.every(fieldName => fieldName in user));
 
 console.log('====> ', `submit ${validUsers.length}${validUsers.at(-1).usr}`);

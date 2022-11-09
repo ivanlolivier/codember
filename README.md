@@ -13,6 +13,6 @@ Each challenge has its own folder with the code I used to solve it.
 ```
 
 ## Do you want to see more solutions? 👥
-Check these repos:
+Check out these repos:
 - https://github.com/Atticus64/codember -> Jona <Atticus64>
 - https://github.com/ikurotime/codember_rust -> David Huertas <ikurotime>

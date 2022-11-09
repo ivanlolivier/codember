@@ -5,7 +5,7 @@ Solutions for the challenges from https://codember.dev/
 Each challenge has its own folder with the code I used to solve it.
 ```
 .
-├── Challenge1
+├── challenge1
 │  ├── index.js
 │  └── users.txt
 ├── package.json

@@ -2,7 +2,7 @@ import fs from 'node:fs';
 
 const REQUIRED_FIELD_NAMES = ['usr', 'eme', 'psw', 'age', 'loc', 'fll'];
 
-const data = fs.readFileSync('users.txt', 'utf8');
+const data = fs.readFileSync('challenge1/users.txt', 'utf8');
 
 const users = data
   //create an array with 1 item per user (split on double newline)

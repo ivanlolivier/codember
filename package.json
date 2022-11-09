@@ -1,0 +1,11 @@
+{
+  "name": "codember-by-ivanlolivier",
+  "version": "1.0.0",
+  "description": "Solutions for the challenges from https://codember.dev/ by ivanlolivier",
+  "type": "module",
+  "scripts": {
+    "challenge1": "node challenge1"
+  },
+  "author": "Ivan L'olivier",
+  "license": "MIT"
+}

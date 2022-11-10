@@ -19,7 +19,7 @@ Each challenge has its own folder with the code I used to solve it.
 
 ## Do you want to see more solutions? 👥
 Check out these repos:
-- https://github.com/Atticus64/codember -> Jona <Atticus64> (with JS)
+- https://github.com/Atticus64/codember -> Jona <Atticus64> (JS)
 - https://github.com/ikurotime/codember_rust -> David Huertas <ikurotime> (Rust)
 - https://github.com/davidmaillo/codember-js -> David Maillo <davidmaillo> (JS)
 - https://github.com/JonatanGarbuyo/codember -> Jonatan Garbuyo <JonatanGarbuyo> (JS)

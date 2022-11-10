@@ -26,7 +26,7 @@ Check out these repos:
 - https://github.com/facundocapua/codember -> Facundo Capua <facundocapua> (JS)
 - https://github.com/tomimelo/codember-challenges -> Tomás Melone <tomimelo> (JS)
 - https://github.com/jesusmarzor/codember2022 -> Jesus Marzor <jesusmarzor> (JS)
-- https://github.com/MarioParrilla/Codember -> Mario Parrilla <MarioParrilla> (JS)
+- https://github.com/MarioParrilla/Codember -> Mario Parrilla <MarioParrilla> (Java)
 - https://github.com/Grover101/Codember -> Grover Limachi <Grover101> (JS)
 - https://github.com/Johguxo/codember -> Johann Gonzales <Johguxo> (Python)
 - https://github.com/jpaddeo/codember -> Juan Pablo Addeo <jpaddeo> (JS & PHP)

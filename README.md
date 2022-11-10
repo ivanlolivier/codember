@@ -14,7 +14,7 @@ Each challenge has its own folder with the code I used to solve it.
 
 ## Run it 🏃💨
 1. Clone the project (or download it)
-2. Execute `npm run challenge1` in the terminal to run the solution for the challenge1
+2. Execute `npm run challenge01` in the terminal to run the solution for the challenge1
 
 
 ## Do you want to see more solutions? 👥

@@ -31,3 +31,5 @@ Check out these repos:
 - https://github.com/Johguxo/codember -> Johann Gonzales <Johguxo> (Python)
 - https://github.com/jpaddeo/codember -> Juan Pablo Addeo <jpaddeo> (JS & PHP)
 - https://github.com/SantiMenendez19/codember -> Santiago Menendez <SantiMenendez19> (Python)
+- https://github.com/aceto82/codember-2022 -> Diego Ortiz <aceto82> (TS)
+  

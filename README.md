@@ -19,13 +19,13 @@ Each challenge has its own folder with the code I used to solve it.
 
 ## Do you want to see more solutions? 👥
 Check out these repos:
-- https://github.com/Atticus64/codember -> Jona <Atticus64>
-- https://github.com/ikurotime/codember_rust -> David Huertas <ikurotime>
-- https://github.com/davidmaillo/codember-js -> David Maillo <davidmaillo>
-- https://github.com/JonatanGarbuyo/codember -> Jonatan Garbuyo <JonatanGarbuyo>
-- https://github.com/facundocapua/codember -> Facundo Capua <facundocapua>
-- https://github.com/tomimelo/codember-challenges -> Tomás Melone <tomimelo>
-- https://github.com/jesusmarzor/codember2022 -> Jesus Marzor <jesusmarzor>
-- https://github.com/MarioParrilla/Codember -> Mario Parrilla <MarioParrilla>
-- https://github.com/Grover101/Codember -> Grover Limachi <Grover101>
-- https://github.com/Johguxo/codember -> Johann Gonzales <Johguxo>
+- https://github.com/Atticus64/codember -> Jona <Atticus64> (with JS)
+- https://github.com/ikurotime/codember_rust -> David Huertas <ikurotime> (Rust)
+- https://github.com/davidmaillo/codember-js -> David Maillo <davidmaillo> (JS)
+- https://github.com/JonatanGarbuyo/codember -> Jonatan Garbuyo <JonatanGarbuyo> (JS)
+- https://github.com/facundocapua/codember -> Facundo Capua <facundocapua> (JS)
+- https://github.com/tomimelo/codember-challenges -> Tomás Melone <tomimelo> (JS)
+- https://github.com/jesusmarzor/codember2022 -> Jesus Marzor <jesusmarzor> (JS)
+- https://github.com/MarioParrilla/Codember -> Mario Parrilla <MarioParrilla> (JS)
+- https://github.com/Grover101/Codember -> Grover Limachi <Grover101> (JS)
+- https://github.com/Johguxo/codember -> Johann Gonzales <Johguxo> (Python)

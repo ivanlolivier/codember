@@ -29,3 +29,4 @@ Check out these repos:
 - https://github.com/MarioParrilla/Codember -> Mario Parrilla <MarioParrilla> (JS)
 - https://github.com/Grover101/Codember -> Grover Limachi <Grover101> (JS)
 - https://github.com/Johguxo/codember -> Johann Gonzales <Johguxo> (Python)
+- https://github.com/jpaddeo/codember -> Juan Pablo Addeo <jpaddeo> (JS & PHP)

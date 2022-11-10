@@ -4,7 +4,7 @@
   "description": "Solutions for the challenges from https://codember.dev/ by ivanlolivier",
   "type": "module",
   "scripts": {
-    "challenge1": "node challenge1"
+    "challenge1": "node challenge01"
   },
   "author": "Ivan L'olivier",
   "license": "MIT"

@@ -1,3 +1,11 @@
+```
+                 /\ \                       /\ \
+  ___     ___    \_\ \      __     ___ ___  \ \ \____     __    _ __
+ /'___\  / __`\  /'_` \   /'__`\ /' __` __`\ \ \ '__`\  /'__`\ /\`'__\
+/\ \__/ /\ \L\ \/\ \L\ \ /\  __/ /\ \/\ \/\ \ \ \ \L\ \/\  __/ \ \ \/
+\ \____\\ \____/\ \___,_\\ \____\\ \_\ \_\ \_\ \ \_,__/\ \____\ \ \_\
+ \/____/ \/___/  \/__,_ / \/____/ \/_/\/_/\/_/  \/___/  \/____/  \/_/
+```
 # codember in JS 🗓️🧑‍💻
 Solutions for the challenges from https://codember.dev/
 
@@ -33,4 +41,5 @@ Check out these repos:
 - https://github.com/SantiMenendez19/codember -> Santiago Menendez <SantiMenendez19> (Python)
 - https://github.com/msarfer/codember -> Marco Sarrio Ferrandez<msarfer> (JS)
 - https://github.com/aceto82/codember-2022 -> Diego Ortiz <aceto82> (TS)
+- https://github.com/fredoist/codember -> Freddy González <fredoist> (Lua)
   

@@ -43,4 +43,4 @@ Check out these repos:
 - https://github.com/aceto82/codember-2022 -> Diego Ortiz <aceto82> (TS)
 - https://github.com/jesubohr/codember-ts -> Jesus Borrero <jesubohr> (TS)
 - https://github.com/fredoist/codember -> Freddy González <fredoist> (Lua)
-- https://github.com/FlamesX-128/codember-dev-challanges -> Flames <FlamesX-128> (TS)
+- https://github.com/FlamesX-128/codember-dev-challenges -> Flames <FlamesX-128> (TS)

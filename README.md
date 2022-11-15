@@ -12,10 +12,10 @@ Solutions for the challenges from https://codember.dev/
 
 ## Challenges ⛰️
 
-| Challenge     | Name                        |                            |
-| ------------- | --------------------------- | -------------------------- |
-| 1             | Fix Twitter!                | [solution](./challenge01/) |
-| 2             | Catch those cybercriminals! | [solution](./challenge02/) |
+| Challenge     | Name                        |                                    |
+| ------------- | --------------------------- | ---------------------------------- |
+| 1             | Fix Twitter!                | [solution](./challenge01/index.js) |
+| 2             | Catch those cybercriminals! | [solution](./challenge02/index.js) |
 
 ## Secrets 🤫
 

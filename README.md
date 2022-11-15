@@ -16,6 +16,8 @@ Each challenge has its own folder with the code I used to solve it.
 ├── challenge01
 │  ├── index.js
 │  └── users.txt
+├── challenge02
+│  └── index.js
 ├── package.json
 └── README.md
 ```

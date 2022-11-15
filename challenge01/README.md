@@ -1,21 +1,21 @@
-# Reto 1: ¡Arregla Twitter!
+# Challenge 1: Fix Twitter!
 
-## Problema
+## Problem
 
-Twitter ha sido comprado y quieren eliminar los bots. Te han pedido ayuda para detectar el número de usuarios en su base de datos que tienen datos corruptos.
+Twitter has been bought and they want to remove the bots. They have asked for your help to detect the number of users in their database that have corrupted data.
 
-La base de datos es muy antigua y está en un formato extraño. Los perfiles requieren tener los siguientes datos:
+The database is very old and it's in a strange format. The profiles require the following data:
 
-- usr: nombre de usuario
+- usr: username
 - eme: email
-- psw: contraseña
-- age: edad
-- loc: ubicación
-- fll: número de seguidores
+- psw: password
+- age: age
+- loc: location
+- fll: number of followers
 
-Todo está en un fichero donde los datos de usuario son una secuencia de pares `key:value`, que pueden estar en la misma línea o separado por líneas, y cada usuario está separado por un salto de línea. ¡Ojo porque puede estar todo desordenado!
+Everything is in a file where the user data is a sequence of `key:value` pairs, which can be on the same line or separated by lines, and each user is separated by a newline. Be careful because it can be all mixed up!
 
-## Ejemplo de input:
+## Input example:
 
 ```
 usr:@midudev eme:mi@gmail.com psw:123456 age:22 loc:bcn fll:82
@@ -27,22 +27,24 @@ psw:11133 loc:Canary fll:333 usr:@pheralb eme:pheralb@gmail.com
 usr:@itziar age:19 loc:isle psw:aaa fll:222 eme:itzi@gmail.com
 ```
 
-- El primer usuario SÍ es válido. Tiene todos los campos.
-- El segundo usuario SÍ es válido. Tiene todos los campos.
-- El tercer usuario NO es válido. Le falta el campo `age`.
-- El cuarto usuario SÍ es válido. Tiene todos los campos.
+- The first user IS valid. It has all the fields.
+- The second user IS valid. It has all the fields.
+- The third user IS NOT valid. It is missing the `age` field.
+- The fourth user IS valid. It has all the fields.
 
-Ahora que ya sabes esto, usa este input para detectar los usuarios incorrectos: https://codember.dev/users.txt
+Now that you know this, use this input to detect the incorrect users: https://codember.dev/users.txt
 
-## Pistas
-- Los datos pueden estar en cualquier orden.
-- Los datos pueden estar en la misma línea o separados por líneas.
-- Los usuarios se separan por un salto de línea en blanco.
-- Los usuarios pueden estar repetidos, pero no importa, siguen siendo válidos.
-- Pueden venir datos que no son necesarios para el usuario pero eso no lo hacen inválidos.
+## Hints
+- The data can be in any order.
+- The data can be on the same line or separated by lines.
+- The users are separated by a blank newline.
+- The users can be repeated, but it doesn't matter, they are still valid.
+- There can be data that is not necessary for the user but that does not make them invalid.
 
-## Cómo enviar la solución
-Usa el comando "submit" para enviar tu solución con el número de usuarios correctos + el nombre del último usuario válido. Por ejemplo:
+## How to submit the solution
+Use the "submit" command to send your solution with the number of correct users + the name of the last valid user.
+
+For example:
 ```
 $ submit 482@midudev
 ```

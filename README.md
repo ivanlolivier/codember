@@ -45,3 +45,4 @@ Check out these repos:
 - https://github.com/fredoist/codember -> Freddy González <fredoist> (Lua)
 - https://github.com/FlamesX-128/codember-dev-challenges -> Flames <FlamesX-128> (TS)
 - https://github.com/d3vcloud/codember-2022 -> Xavier Alfaro <xavimon> (JS)
+- https://github.com/cosmoart/codember -> Cosmo <cosmoart> (JS)

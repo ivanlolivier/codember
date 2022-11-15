@@ -9,22 +9,29 @@
 ```
 Solutions for the challenges from https://codember.dev/
 
-## Structure 🌳
-Each challenge has its own folder with the code I used to solve it.
-```
-.
-├── challenge01
-│  ├── index.js
-│  └── users.txt
-├── challenge02
-│  └── index.js
-├── package.json
-└── README.md
-```
+
+## Challenges ⛰️
+
+| Challenge     | Name                        |                            |
+| ------------- | --------------------------- | -------------------------- |
+| 1             | Fix Twitter!                | [solution](./challenge01/) |
+| 2             | Catch those cybercriminals! | [solution](./challenge02/) |
+
+## Secrets 🤫
+
+| Secret  | Name              | Hint              |
+| ------- | ----------------- | ----------------- |
+| 1       | Saoko papi saoko  | Look at the files | 
+| 2       | Listen to the cow | Look at the code  |
+| 3       | Confetti          | :tada: + :tada:   |
+| 4       | Game              | Play a game       |
+| 5       | Easter egg        | Google 360º       |
+
 
 ## Run it 🏃💨
 1. Clone the project (or download it)
-2. Execute `npm run challenge01` in the terminal to run the solution for the challenge01
+2. Execute `npm run challenge01` in the terminal to run the solution for the challenge 01
+3. Execute `npm run challenge02` in the terminal to run the solution for the challenge 02
 
 
 ## Do you want to see more solutions? 👥

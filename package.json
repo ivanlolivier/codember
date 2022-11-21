@@ -5,7 +5,8 @@
   "type": "module",
   "scripts": {
     "challenge01": "node challenge01",
-    "challenge02": "node challenge02"
+    "challenge02": "node challenge02",
+    "challenge03": "node challenge03"
   },
   "author": "Ivan L'olivier",
   "license": "MIT"

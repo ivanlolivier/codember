@@ -30,6 +30,9 @@ const longestZebra = (colors) => {
   return [maxLength, lastColor];
 };
 
+/*******************************************************
+ * TESTS
+ */
 const tests = [
   { input: ["red", "blue", "red", "blue", "green"], output: [4, "blue"] },
   { input: ["green", "red", "blue", "gray"], output: [2, "gray"] },
@@ -55,6 +58,9 @@ for (let test of tests) {
   console.log("---------------");
 }
 
+/*******************************************************
+ * DATA
+ */
 const data = JSON.parse(fs.readFileSync("challenge03/colors.txt", "utf8"));
 const res = longestZebra(data);
 console.log(`submit ${res[0]}@${res[1]}`);

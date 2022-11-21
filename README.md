@@ -1,4 +1,5 @@
 # codember in JS 🗓️🧑‍💻
+
 ```
                  /\ \                       /\ \
   ___     ___    \_\ \      __     ___ ___  \ \ \____     __    _ __
@@ -7,35 +8,39 @@
 \ \____\\ \____/\ \___,_\\ \____\\ \_\ \_\ \_\ \ \_,__/\ \____\ \ \_\
  \/____/ \/___/  \/__,_ / \/____/ \/_/\/_/\/_/  \/___/  \/____/  \/_/
 ```
-Solutions for the challenges from https://codember.dev/
 
+Solutions for the challenges from https://codember.dev/
 
 ## Challenges ⛰️
 
-| Challenge     | Name                        |                                    |
-| ------------- | --------------------------- | ---------------------------------- |
-| 1             | Fix Twitter!                | [solution](./challenge01/index.js) |
-| 2             | Catch those cybercriminals! | [solution](./challenge02/index.js) |
+| Challenge | Name                        |                                    |
+| --------- | --------------------------- | ---------------------------------- |
+| 1         | Fix Twitter!                | [solution](./challenge01/index.js) |
+| 2         | Catch those cybercriminals! | [solution](./challenge02/index.js) |
+| 3         | Zebra of colors             | [solution](./challenge03/index.js) |
 
 ## Secrets 🤫
 
-| Secret  | Name              | Hint              |
-| ------- | ----------------- | ----------------- |
-| 1       | Saoko papi saoko  | Look at the files | 
-| 2       | Listen to the cow | Look at the code  |
-| 3       | Confetti          | :tada: + :tada:   |
-| 4       | Game              | Play a game       |
-| 5       | Easter egg        | Google 360º       |
-
+| Secret | Name              | Hint              |
+| ------ | ----------------- | ----------------- |
+| 1      | Saoko papi saoko  | Look at the files |
+| 2      | Listen to the cow | Look at the code  |
+| 3      | Confetti          | :tada: + :tada:   |
+| 4      | Game              | Play a game       |
+| 5      | Easter egg        | Google 360º       |
+| 6      | Mail              | Check the emails  |
+| 7      | Konami code       |                   |
 
 ## Run it 🏃💨
+
 1. Clone the project (or download it)
 2. Execute `npm run challenge01` in the terminal to run the solution for the challenge 01
 3. Execute `npm run challenge02` in the terminal to run the solution for the challenge 02
 
-
 ## Do you want to see more solutions? 👥
+
 Check out these repos:
+
 - https://github.com/Atticus64/codember -> Jona <Atticus64> (JS)
 - https://github.com/ikurotime/codember_rust -> David Huertas <ikurotime> (Rust)
 - https://github.com/davidmaillo/codember-js -> David Maillo <davidmaillo> (JS)

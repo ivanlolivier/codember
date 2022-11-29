@@ -13,24 +13,26 @@ Solutions for the challenges from https://codember.dev/
 
 ## Challenges ⛰️
 
-| Challenge | Name                        |                                    |
-| --------- | --------------------------- | ---------------------------------- |
-| 1         | Fix Twitter!                | [solution](./challenge01/index.js) |
-| 2         | Catch those cybercriminals! | [solution](./challenge02/index.js) |
-| 3         | Zebra of colors             | [solution](./challenge03/index.js) |
-| 4         | Dude, I lost my password    | [solution](./challenge04/index.js) |
+| Challenge | Name                                      |                                    |
+| --------- | ----------------------------------------- | ---------------------------------- |
+| 1         | Fix Twitter!                              | [solution](./challenge01/index.js) |
+| 2         | Catch those cybercriminals!               | [solution](./challenge02/index.js) |
+| 3         | Zebra of colors                           | [solution](./challenge03/index.js) |
+| 4         | Dude, I lost my password                  | [solution](./challenge04/index.js) |
+| 5         | Battle Royale of libraries and frameworks | [solution](./challenge05/index.js) |
 
 ## Secrets 🤫
 
-| Secret | Name              | Hint              |
-| ------ | ----------------- | ----------------- |
-| 1      | Saoko papi saoko  | Look at the files |
-| 2      | Listen to the cow | Look at the code  |
-| 3      | Confetti          | :tada: + :tada:   |
-| 4      | Game              | Play a game       |
-| 5      | Easter egg        | Google 360º       |
-| 6      | Mail              | Check the emails  |
-| 7      | Konami code       |                   |
+| Secret | Name              | Hint               |
+| ------ | ----------------- | ------------------ |
+| 1      | Saoko papi saoko  | Look at the files  |
+| 2      | Listen to the cow | Look at the code   |
+| 3      | Confetti          | :tada: + :tada:    |
+| 4      | Game              | Play a game        |
+| 5      | Easter egg        | Google 360º        |
+| 6      | Mail              | Check the emails   |
+| 7      | Konami code       |                    |
+| 8      | npm in public     | Check package.json |
 
 ## Run it 🏃💨
 
@@ -39,6 +41,7 @@ Solutions for the challenges from https://codember.dev/
 3. Execute `npm run challenge02` in the terminal to run the solution for the challenge 02
 4. Execute `npm run challenge03` in the terminal to run the solution for the challenge 03
 5. Execute `npm run challenge04` in the terminal to run the solution for the challenge 04
+6. Execute `npm run challenge05` in the terminal to run the solution for the challenge 05
 
 ## Do you want to see more solutions? 👥
 

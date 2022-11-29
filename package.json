@@ -7,7 +7,8 @@
     "challenge01": "node challenge01",
     "challenge02": "node challenge02",
     "challenge03": "node challenge03",
-    "challenge04": "node challenge04"
+    "challenge04": "node challenge04",
+    "challenge05": "node challenge05"
   },
   "author": "Ivan L'olivier",
   "license": "MIT"
